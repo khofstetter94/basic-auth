@@ -21,8 +21,8 @@ We begin the first of a 3-Phase build of an authentication system, written in Ex
 
 ### Links and Resources
 
-- [ci/cd](https://github.com/khofstetter94/api-server/pull/1)
-- [back-end server url](https://kmh-api-server.herokuapp.com/)
+- [ci/cd](https://github.com/khofstetter94/basic-auth/pull/1)
+- [back-end server url](https://kmh-basic-auth.herokuapp.com/)
 
 ### Setup
 
